@@ -1,0 +1,14 @@
+# Core
+opencv-python>=4.9.0
+mediapipe>=0.10.9
+tensorflow>=2.15.0
+numpy>=1.26.0
+
+# Screen capture
+mss>=9.0.1
+
+# UI image handling (for PIL.ImageTk)
+Pillow>=10.0.0
+
+# Text-to-speech (optional – remove if not needed)
+pyttsx3>=2.90
